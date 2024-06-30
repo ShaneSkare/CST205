@@ -1,0 +1,1 @@
+my_list = ['tiger', 'snake', 'shark', 'eagle', 'cow', 'monkey']
